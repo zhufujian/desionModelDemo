@@ -1,4 +1,4 @@
-package com.study.demo;
+package com.study.demo.designModel;
 
 import com.study.demo.designModel.proxy.Proxy;
 import com.study.demo.designModel.proxy.Sourceable;

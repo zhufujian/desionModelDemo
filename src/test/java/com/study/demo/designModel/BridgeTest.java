@@ -1,4 +1,4 @@
-package com.study.demo;
+package com.study.demo.designModel;
 
 import com.study.demo.designModel.bridge.Bridge;
 import com.study.demo.designModel.bridge.MyBridge;

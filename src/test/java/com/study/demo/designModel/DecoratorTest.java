@@ -1,4 +1,4 @@
-package com.study.demo;
+package com.study.demo.designModel;
 
 import com.study.demo.designModel.decorator.Decorator;
 import com.study.demo.designModel.decorator.Source;
