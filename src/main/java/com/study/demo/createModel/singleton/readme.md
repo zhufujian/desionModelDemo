@@ -1,4 +1,4 @@
-## 单例模式（Singleton Pattern
+## 单例模式（Singleton Pattern）
 ### 介绍
 **意图：** `保证一个类仅有一个实例，并提供一个访问它的全局访问点`
 
