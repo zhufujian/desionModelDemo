@@ -2,6 +2,7 @@ package com.study.demo.relationModel;
 
 import com.study.demo.relationModel.strategy.ICalculator;
 import com.study.demo.relationModel.strategy.Plus;
+import com.study.demo.relationModel.template.AbstractCalculator;
 
 /**
  * 
@@ -20,6 +21,12 @@ public class StrategyTest {
 		ICalculator calculator=new Plus();
 		int result= calculator.calculate(exp); 
 		System.out.println(result);
+		
+		String exp2 = "8+6";
+		AbstractCalculator cal = new com.study.demo.relationModel.template.Plus();
+		int result2 = cal.calculate(exp2, "\\+");
+		System.out.println(result2);
+
 		
 	}
 }
