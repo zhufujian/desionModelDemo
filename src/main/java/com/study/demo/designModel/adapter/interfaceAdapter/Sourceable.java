@@ -1,4 +1,4 @@
-package com.study.demo.designModel.interfaceAdapter;
+package com.study.demo.designModel.adapter.interfaceAdapter;
 
 public interface Sourceable {
 	

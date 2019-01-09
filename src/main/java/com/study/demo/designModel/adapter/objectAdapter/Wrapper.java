@@ -1,7 +1,7 @@
-package com.study.demo.designModel.objectAdapter;
+package com.study.demo.designModel.adapter.objectAdapter;
 
-import com.study.demo.designModel.classAdapter.Source;
-import com.study.demo.designModel.classAdapter.Targetable;
+import com.study.demo.designModel.adapter.classAdapter.Source;
+import com.study.demo.designModel.adapter.classAdapter.Targetable;
 
 public class Wrapper implements Targetable {
 	 

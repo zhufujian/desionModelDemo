@@ -1,9 +1,9 @@
 package com.study.demo.designModel;
 
-import com.study.demo.designModel.classAdapter.Adapter;
-import com.study.demo.designModel.classAdapter.Source;
-import com.study.demo.designModel.classAdapter.Targetable;
-import com.study.demo.designModel.objectAdapter.Wrapper;
+import com.study.demo.designModel.adapter.classAdapter.Adapter;
+import com.study.demo.designModel.adapter.classAdapter.Source;
+import com.study.demo.designModel.adapter.classAdapter.Targetable;
+import com.study.demo.designModel.adapter.objectAdapter.Wrapper;
 
 public class ClassAdapterTest {
 	 

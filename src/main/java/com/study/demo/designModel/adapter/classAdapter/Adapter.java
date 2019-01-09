@@ -1,4 +1,4 @@
-package com.study.demo.designModel.classAdapter;
+package com.study.demo.designModel.adapter.classAdapter;
 
 public class Adapter extends Source implements Targetable{
 

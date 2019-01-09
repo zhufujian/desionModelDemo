@@ -1,8 +1,8 @@
 package com.study.demo.designModel;
 
-import com.study.demo.designModel.interfaceAdapter.SourceSub1;
-import com.study.demo.designModel.interfaceAdapter.SourceSub2;
-import com.study.demo.designModel.interfaceAdapter.Sourceable;
+import com.study.demo.designModel.adapter.interfaceAdapter.SourceSub1;
+import com.study.demo.designModel.adapter.interfaceAdapter.SourceSub2;
+import com.study.demo.designModel.adapter.interfaceAdapter.Sourceable;
 
 /**
  * 
